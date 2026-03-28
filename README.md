@@ -1,6 +1,8 @@
 # claude-nv-statusline
 
-Claude Code のステータスラインスクリプト。[GSD](https://github.com/dbbaskette/gsd) の `gsd-statusline.js` をベースに、セッション・週間レート制限の表示を追加した fork。
+Claude Code のステータスラインスクリプト。[GSD](https://github.com/gsd-build/get-shit-done) の `gsd-statusline.js` をベースに、セッション・週間レート制限の表示を追加した fork。
+
+> Based on [get-shit-done](https://github.com/gsd-build/get-shit-done) by Lex Christopherson, licensed under MIT.
 
 ## 表示例
 
